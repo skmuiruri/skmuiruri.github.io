@@ -3,7 +3,7 @@ layout: post
 title: "Type level programming"
 description: Type level programming in Scala.
 date: 2021-11-14 15:01:35 +0300
-author: #nolan
+author: Kamau
 image: '/images/99.jpg'
 tags: [lifestyle]
 tags_color: '#b25642'
