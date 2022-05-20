@@ -1,8 +1,8 @@
 #-------------------------------
 # Site Settings
-title: Samson Kamau Muiruri
+title: Mria
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Sharing thoughts, ideas et all
+description: Mria is a multipurpose blog theme for Jekyll
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -31,7 +31,7 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-  enable: false
+  enable: true
   hero__title: Thoughts, stories and ideas.
   hero__description: Don’t limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve.
   hero__image: # You can add hero image. For example '/images/06.jpg'
@@ -40,8 +40,8 @@ hero:
 #-------------------------------
 # Author Global Settings
 author:
-  author__name: Samson Kamau Muiruri
-  author__bio: I love programming - turning business logic to runnable code that's maintainable, easy to scale and safe - but i also just love coding. I love exploring different programming topics including (but not limited to) scala, functional programming, and distributed programming.I've been studying these topics for a while but never really documented anything. This blog is meant document my exploratory journey as i dive dipper into topics both common and not so common.
+  author__name: Alena Curtis
+  author__bio: I’m a published content creator, brand copywriter, photographer, and social media content creator and manager. I help brands connect with their customers by developing engaging content that entertains, educates, and offers value to their audience.
   author__avatar: /images/01-1.jpg
 
 
@@ -71,7 +71,7 @@ tag__settings:
 #-------------------------------
 # Author Section Settings
 author__section:
-  enable: false
+  enable: true
   author__section__title: Hello, my name is Alena. I’m reviewer and content creator.
   author__section__description: I’m a published content creator, brand copywriter, photographer, and social media content creator and manager. I help brands connect with their customers by developing engaging content that entertains, educates, and offers value to their audience.
   aurhor__section__button__text: More About Me
@@ -83,7 +83,7 @@ author__section:
 #-------------------------------
 # Newsletter Settings
 mailchimp__settings:
-  enable: false
+  enable: true
   mailchimp__title: Get interesting news
   mailchimp__description: Subscribe to our newsletter and we’ll send you the emails of latest posts.
   mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
@@ -125,8 +125,8 @@ footer__menu__settings:
 #-------------------------------
 # Contact Settings
 contact:
-  email: s.k.muiruri@gmail.com # Add your form_id
-  description: #Mria comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+  email: your@email.com # Add your form_id
+  description: Mria comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
 
 # NOTE
 # Mria theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
