@@ -3,7 +3,7 @@ layout: post
 title: "Type level programming"
 description: #
 date: 2021-11-14 15:01:35 +0300
-author: Kamau
+author: kamau
 image: '/images/99.jpg'
 tags: [lifestyle]
 tags_color: '#b25642'
