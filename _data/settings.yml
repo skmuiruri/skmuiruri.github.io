@@ -1,8 +1,8 @@
 #-------------------------------
 # Site Settings
-title: Kamau's Tech Blog
+title: Tech Blog
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Tech Blog
+description: Kamau's Tech Blog
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
