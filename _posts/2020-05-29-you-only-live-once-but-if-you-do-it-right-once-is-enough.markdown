@@ -7,7 +7,7 @@ author: nolan
 image:  '/images/12.jpg'
 tags:   [productivity]
 tags_color: '#618770'
-featured: true
+featured: false
 ---
 In operant conditioning, a reinforcement (by reward) or instead a punishment is given after a given behavior, changing the frequency and/or form of that behavior. Stimulus present when the behavior/consequence occurs come to control these behavior modifications.
 
