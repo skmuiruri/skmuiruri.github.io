@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Samson Kamau Muiruri
+title: Tech Blog
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Tech Blog
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -40,7 +40,7 @@ hero:
 #-------------------------------
 # Author Global Settings
 author:
-  author__name: Alena Curtis
+  author__name: Samson Kamau Muiruri
   author__bio: I’m a published content creator, brand copywriter, photographer, and social media content creator and manager. I help brands connect with their customers by developing engaging content that entertains, educates, and offers value to their audience.
   author__avatar: /images/01-1.jpg
 
