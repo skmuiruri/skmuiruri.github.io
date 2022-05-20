@@ -61,7 +61,7 @@
                   <p class="article__excerpt">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | truncate: 200 }}{% endif %}</p>
                   {% endif %}
             
-                  <div class="article__meta">
+                  <!-- <div class="article__meta">
                     {% assign author = site.authors | where: 'username', post.author | first %}
             
                     {% if author %}
@@ -84,7 +84,7 @@
                       <time class="article__date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string
                         }}</time>
                     </div>
-                  </div>
+                  </div> -->
 
                 </div>
               </div>
