@@ -3,7 +3,7 @@ layout: post
 title: "In three words I can sum up everything I’ve learned about life: It goes on"
 description: These complex processes, called physiological functions, have underlying physical and chemical bases, as well as signaling and control mechanisms that are essential to maintaining life.
 date: 2021-11-14 15:01:35 +0300
-author: nolan
+author: #nolan
 image: '/images/02.jpg'
 tags: [lifestyle]
 tags_color: '#b25642'

@@ -56,7 +56,7 @@ blog__settings:
 #-------------------------------
 # Videos Section Settings
 videos__settings:
-  enable: true
+  enable: false
   videos__title: Latest Videos
   videos__description:
 
@@ -64,7 +64,7 @@ videos__settings:
 #-------------------------------
 # Tag Section Settings
 tag__settings:
-  enable: true
+  enable: false
   tag: travel # To display the tag section, specify your favorite tag.
 
 
