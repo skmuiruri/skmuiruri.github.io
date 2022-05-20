@@ -20,7 +20,7 @@ layout: default
         <div class="post__description">{{ page.description }}</div>
       {% endif %}
 
-      <!-- <div class="post__meta">
+      <div class="post__meta">
         {% assign author = site.authors | where: 'username', page.author | first %}
         
         {% if author %}
@@ -41,7 +41,7 @@ layout: default
           {% endif %}
           <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
         </div>
-      </div> -->
+      </div>
     </div>
 
     {% if page.video_embed %}
@@ -105,7 +105,7 @@ layout: default
 <!-- end post -->
 
 <div class="container">
-  <!-- <div class="card-author">
+  <div class="card-author">
     <div class="card-author__media">
       {% if author %}
       <a class="card-author__image" href="{{ author.url }}">
@@ -128,7 +128,7 @@ layout: default
         <p class="card-author__description">{{ site.data.settings.author.author__name.author__bio }}</p>
         {% endif %}
     </div>
-  </div> -->
+  </div>
 </div>
 
 {% include related-posts.html %}
