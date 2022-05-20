@@ -36,8 +36,8 @@ hero:
 # Author Global Settings
 author:
   author__name: Samson Kamau Muiruri
-  author__bio: I’m a published content creator, brand copywriter, photographer, and social media content creator and manager. I help brands connect with their customers by developing engaging content that entertains, educates, and offers value to their audience.
-  author__avatar: /images/01-1.jpg
+  author__bio: I love programming - turning business logic to runnable code that's maintainable, scalable and safe - but i also just love coding. I love enjoying different programming topics including (but not limited to) scala, functional programming, and distributed programming. This blog is meant document my exploratory journey as i dive into topics both common and not so common.
+  author__avatar: /images/muiruri_profile.jpg
 
 
 #-------------------------------
