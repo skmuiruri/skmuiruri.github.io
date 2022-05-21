@@ -10,6 +10,8 @@ permalink: /tags/
 <!-- begin tags -->
 <section class="tags">
 
+  {% include section-tags.html %}
+  
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
   {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
 
