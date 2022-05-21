@@ -12,9 +12,9 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Posts'
+    - title: 'Topics'
       url: '/tags/'
-    - title: 'Blog'
+    - title: 'Blogs'
       url: '/blog/'
     # - title: 'Videos'
     #   url: '/videos/'
