@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  Arrays
+title:  Array
+description: Arrays in scala
 date:   2022-04-15 06:39:00 +0100
 author: kamau
 image:  '/images/20.jpg'

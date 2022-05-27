@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  The Big-O notation
-description:
+title:  Big-O notation
+description: The Big-O notation
 date:   2021-12-10 04:01:35 +0100
 author: kamau
 image:  '/images/17.jpg'

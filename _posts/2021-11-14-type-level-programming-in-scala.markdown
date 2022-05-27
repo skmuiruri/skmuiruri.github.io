@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Type level programming
-description: #
-date: 2021-11-14 15:01:35 +0300
+title: Typelevel programming
+description: Typelevel programming in scala
+date: 2021-11-14 18:00:00 +0100
 author: kamau
 image: '/images/99.jpg'
 tags: [scala]

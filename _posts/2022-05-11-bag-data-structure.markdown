@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  Bags data structure
+title:  Bag
+description: Bag data structure
 date:   2022-05-11 07:00:00 +0100
 author: kamau
 image:  '/images/21.jpg'
@@ -9,7 +10,7 @@ tags_color: '#618770'
 ---
 
 
-# BAGS
+# BAG
 
 A bag is a collection where removing items is not supported. Its purpose is to allow clients to collect and then iterate over items.
 The order of the elements is unspecified and should be of no substantial consequence to the client.

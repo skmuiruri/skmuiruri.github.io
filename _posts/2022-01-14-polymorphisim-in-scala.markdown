@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Polymorphism in Scala
-description:
+title: Polymorphism
+description: Polymorphism in Scala
 date: 2022-01-14 06:00:35 +0100
 author: kamau
 image: '/images/16.jpg'
