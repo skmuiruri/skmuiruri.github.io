@@ -3,14 +3,17 @@ layout: post
 title: "Type level programming"
 description: #
 date: 2021-11-14 15:01:35 +0300
-author: samson
+author: kamau
 image: '/images/99.jpg'
-tags: [lifestyle]
+tags: [scala]
 tags_color: '#b25642'
 ---
-# Introduction
 
-## Values vs Types
+# Type level programming
+
+## Introduction
+
+### Values vs Types
 
 In scala, a value is anything that you can be correctly placed on the right side of the equals sign. 
 So you can use both literals and expressions.
@@ -39,9 +42,9 @@ Another useful way of viewing types is as a mathematical **set** of values, for 
 
 [here](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)
 
-## Implicits
+### Implicits
 
-## Type Classes
+### Type Classes
 Type classes are a powerful tool used in functional programming to enable ad-hoc polymorphism. [rif](https://typelevel.org/cats/typeclasses.html)
 
 Type systems that allow a single piece of code to be used with multiple types
@@ -49,3 +52,5 @@ are collectively known as polymorphic systems. [rif]
 Polymorphism simply means having many shapes (Poly: many, morphisms: shape).
 
 In scala, _type class_ is an abstract, parameterized type that lets us add new behavior to any closed data type without using sub-typing. [rif](https://docs.scala-lang.org/scala3/book/ca-type-classes.html#inner-main) 
+
+# - \[DRAFT ~ WIP \] -
