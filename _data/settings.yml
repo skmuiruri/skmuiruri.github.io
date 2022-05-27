@@ -62,7 +62,7 @@ videos__settings:
 # Tag Section Settings
 tag__settings:
   enable: false
-  tag: travel # To display the tag section, specify your favorite tag.
+  tag: scala # To display the tag section, specify your favorite tag.
 
 
 #-------------------------------

@@ -4,7 +4,7 @@ title:  Bags data structure
 date:   2022-05-11 07:00:00 +0100
 author: kamau
 image:  '/images/21.jpg'
-tags:   [compSci, scala]
+tags:   [scala, compSci]
 tags_color: '#618770'
 ---
 

@@ -4,7 +4,7 @@ title:  Arrays
 date:   2022-04-15 06:39:00 +0100
 author: kamau
 image:  '/images/20.jpg'
-tags:   [oregon, travel]
+tags:   [scala, compSci]
 tags_color: '#666e76'
 ---
 # Arrays
