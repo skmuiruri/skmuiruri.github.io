@@ -22,6 +22,6 @@ I am a big advocate of knowledge transfer so you'll find me now and then sharing
 
   
 
-All the artwork on the site has been provided by my good friend Sharon Donatore who happens to be a very talented artist. If you're looking for custom-painted shores or merchandise check out her [instagram profile](https://www.instagram.com/sharon_donatone/).
+All the artwork on the site has been provided by my good friend Sharon Donatone who happens to be a very talented artist. If you're looking for custom-painted shores or merchandise check out her [instagram profile](https://www.instagram.com/sharon_donatone/).
 
 (_tell her i sent you .. you might get a discount_)
