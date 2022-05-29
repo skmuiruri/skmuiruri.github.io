@@ -9,6 +9,6 @@ tags: [non-tech, MyStrifeWithJoeSeries]
 tags_color: '#618770'
 ---
 
-# Sum and Product types in Scala
+# MyStrifeWithJoeSeries - Episode I
 
 # - \[DRAFT ~ WIP \] -
