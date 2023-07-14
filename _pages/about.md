@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/muiruri_profile_2.jpg'
+image: '/images/muiruri_profile_2.png'
 ---
 
 I’m a technologist who loves studying, building, and talking about all things tech. I started building applications 20+ years ago when vbscript was more widely used than javascript. Over the years I have worked with various technologies including Dot.Net, Oracle, SQL Server, Java, Hibernate, Spring, C, Hadoop, Spark, Scala, Kubernetes, ZIO, Cats, and many more.
