@@ -4,7 +4,7 @@ title: Installation and Setup
 description: The first post in the Rust programming series. In this post we learn how to install and setup the Rust programming language.
 date: 2023-07-14 15:01:35 +0100
 author: Samson Kamau Muiruri
-image: 'images/rust_series_1.png'
+image: 'images/rust_series_1.jpg'
 tags: [rust]
 tags_color: '#618770'
 ---
@@ -97,10 +97,10 @@ $ rustup default nightly
 ## IDE Setting up
 
 ### Visual Studio Code
-https://visualstudio.microsoft.com/it/downloads/
-https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer
+IDE: https://visualstudio.microsoft.com/it/downloads/
+Plugin: https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer
 
 ### Intelij IDEA
-https://www.jetbrains.com/idea/
-https://www.jetbrains.com/rust/
+IDE: https://www.jetbrains.com/idea/
+Plugin: https://www.jetbrains.com/rust/
 
