@@ -46,6 +46,7 @@
       .article__content {
          .article__title {
            font-size: 42px;
+           text-decoration: none;
          }
       }
     }
@@ -83,7 +84,7 @@
          .article__title {
            font-size: 26px;
            a {
-              text-decoration-thickness: 2px;
+              text-decoration: none;
             }
          }
       }
@@ -194,9 +195,7 @@
   font-size: 26px;
 
   a {
-    text-decoration: underline;
-    text-decoration-color: transparent;
-    text-decoration-thickness: 2px;
+    text-decoration: none;
     color: var(--heading-font-color);
 
     &:hover {
