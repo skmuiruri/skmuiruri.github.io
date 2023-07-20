@@ -4,7 +4,7 @@ title: Installation and Setup
 description: The first post in the Rust programming series. In this post we learn how to install and setup the Rust programming language.
 date: 2023-07-14 15:01:35 +0100
 author: Samson Kamau Muiruri
-image: 'images/01-2.jpg'
+image: 'images/01-1.jpg'
 tags: [rust]
 tags_color: '#618770'
 ---
